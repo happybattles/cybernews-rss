@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <atom:link href="https://happybattles.github.io/cybernews-rss/.feed.xml" rel="self" type="application/rss+xml" />
+    <title>LUMO Cybersecurity Briefs</title>
+    <link>https://lumocomputers.com</link>
+    <description>Summarized cybersecurity news and alerts for small business owners.</description>
+    <lastBuildDate>Thu, 10 Jul 2025 20:07:53 -0000</lastBuildDate>
+
+    <item>
+      <title>Featuring-Call-Exploits-Underway</title>
+      <link>https://www.zerodayinitiative.com/blog/2025/5/14/pwn2own-berlin-the-full-schedule</link>
+      <description>
+        The Pwn2Own Berlin competition is underway, featuring top security researchers testing various systems, including an AI category for the first time. High-value targets include NVIDIA Triton Inference Server, Red Hat Enterprise Linux, Microsoft Windows 11, and more. Participants have until May 15th to attempt vulnerability exploits in a bid to win cash prizes and Master of Pwn Points. Act now to protect your business — call LUMO today at (928) 277-8369.
+      </description>
+      <pubDate>Thu, 10 Jul 2025 10:46:14 -0000</pubDate>
+      <guid isPermaLink="false">https://www.zerodayinitiative.com/blog/2025/5/14/pwn2own-berlin-the-full-schedule</guid>
+    </item>
+  </channel>
+</rss>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <atom:link href="https://happybattles.github.io/cybernews-rss/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://happybattles.github.io/cybernews-rss/feed.rss" rel="self" type="application/rss+xml" />
     <title>LUMO Cybersecurity Briefs</title>
     <link>https://lumocomputers.com</link>
     <description>Summarized cybersecurity news and alerts for small business owners.</description>

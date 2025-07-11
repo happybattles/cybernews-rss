@@ -1,13 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <atom:link href="https://happybattles.github.io/cybernews-rss/feed.rss" rel="self" type="application/rss+xml" />
-    <title>LUMO Cybersecurity Briefs</title>
-    <link>https://lumocomputers.com</link>
-    <description>Summarized cybersecurity news and alerts for small business owners.</description>
-    <lastBuildDate>Thu, 10 Jul 2025 20:07:53 -0000</lastBuildDate>
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0"><channel><title>LUMO Cybersecurity Updates</title><link>https://happybattles.github.io/cybernews-rss/</link><description>Protect your business — call LUMO today at (928) 277-8369.</description><item><title>Source: https://www.zerodayinitiative.com/blog/2025/5/15/pwn2own-berli...</title><link>https://happybattles.github.io/cybernews-rss/</link><guid>https://happybattles.github.io/cybernews-rss/6196139279.png</guid><pubDate>Fri, 11 Jul 2025 22:25:40 GMT</pubDate><description>&lt;![CDATA[&lt;img src='https://happybattles.github.io/cybernews-rss/6196139279.png' width='400'&gt;&lt;br&gt;&lt;br&gt;Source: https://www.zerodayinitiative.com/blog/2025/5/15/pwn2own-berlin-2025-day-one-results
 
-    <item>
+The Zero Day Initiative (ZDI) held its Pwn2Own Berlin 2025 contest on May 15th. Eleven teams participated, including the first AI attempts. Notable successes include Pumpkin from DEVCORE Research Team who used an integer overflow to escalate privileges on Red Hat Linux and earned $20,000. Chen Le Qi of STAR Labs SG combined a Use-After-Free (UAF) and an integer overflow to escalate to SYSTEM on Windows 11, winning $30,000. The first ever winner of the AI category in Pwn2Own history is Sina Kheirkhah of Summoning Team who successfully exploited Chroma, earning $20,000. However, several teams were unsuccessful and some winners had their awards reduced due to known but unpatched bugs or N-day exploits. Act now to protect your business — call LUMO today at (928) 277-8369.]]&gt;</description><enclosure url="https://happybattles.github.io/cybernews-rss/6196139279.png" length="0" type="image/png" /></item><item>
       <title>Featuring-Call-Exploits-Underway</title>
       <link>https://www.zerodayinitiative.com/blog/2025/5/14/pwn2own-berlin-the-full-schedule</link>
       <description>
@@ -16,5 +10,4 @@
       <pubDate>Thu, 10 Jul 2025 10:46:14 -0000</pubDate>
       <guid isPermaLink="false">https://www.zerodayinitiative.com/blog/2025/5/14/pwn2own-berlin-the-full-schedule</guid>
     </item>
-  </channel>
-</rss>
+  </channel></rss>
